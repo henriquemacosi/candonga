@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Blog post 01"
+date:   2015-09-13 14:16:43
+categories: jekyll update
+---
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor dicta aliquam pariatur ad. Quo eveniet accusantium doloremque, cupiditate dicta obcaecati odit, quis reiciendis fugit quas velit placeat non, nostrum omnis.
